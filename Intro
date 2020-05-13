@@ -1,0 +1,41 @@
+## Introducción al curso
+
+El mundo en el que vivimos consiste en organismos vivos y estructuras no vivas. Generalmente, las relaciones entre organismos, 
+o entre organismos y estructuras no vivientes son evidentes. La ECOLOGÍA en su forma más pura, estudia las relaciones de los 
+organismos con su ambiente. "Organismos" refiriéndose a todos los seres vivos; de esta manera excluímos de la ecología a todas 
+las relaciones entre estructuras no vivientes como objeto de estudio de esta ciencia. El término "ambiente" se refiere al sen-
+tido de "el mundo que nos rodea", por ejemplo, todas las entidades, vivientes o no, que rodean a un organismo. En consecuencia,
+para un ave comiendo el fruto de un árbol, el ambiente incluye por ejemplo a otras aves, otros organismos que se encuentren en 
+el árbol, el árbol y el clima.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fespinozadejanon/Ecolog-a-y-Biodiversidad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
